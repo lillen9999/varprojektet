@@ -7,4 +7,4 @@
 
 
 ## **vecka 11** 
-*idag har vi gjort ett färg schema* [färger](https://coolors.co/00293d-f7edde-bac9d0-7ca5c1-005ca3)
+*idag har vi gjort ett färg schema* [färger](https://coolors.co/00293d-f7edde-598db1-931621)
